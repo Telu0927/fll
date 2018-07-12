@@ -3,46 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://thx1138.me/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/first/</loc>
+    <loc>https://telu0927.github.io/fll/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/first/</loc>
     <lastmod>2018-07-10T19:05:40+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://thx1138.me/categories/</loc>
+    <loc>https://telu0927.github.io/fll/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thx1138.me/</loc>
-    <lastmod>2018-07-10T19:05:40+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://thx1138.me/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://thx1138.me/categories/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://telu0927.github.io/fll/</loc>
     <lastmod>2018-07-10T19:05:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thx1138.me/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://telu0927.github.io/fll/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://telu0927.github.io/fll/categories/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2018-07-10T19:05:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thx1138.me/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <loc>https://telu0927.github.io/fll/tags/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
     <lastmod>2018-07-10T19:05:40+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://thx1138.me/tags/%E9%9B%91%E8%AB%87/</loc>
+    <loc>https://telu0927.github.io/fll/%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/</loc>
+    <lastmod>2018-07-10T19:05:40+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://telu0927.github.io/fll/tags/%E9%9B%91%E8%AB%87/</loc>
     <lastmod>2018-07-10T19:05:40+09:00</lastmod>
     <priority>0</priority>
   </url>
